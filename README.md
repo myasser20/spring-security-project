@@ -5,3 +5,5 @@ Define different roles within the organization (e.g., Administrator, Manager, Em
 - Permission Management:
 Control access to specific features or data based on the employee's role.
 Implement granular permissions to ensure data security and privacy.
+- Password Encryption:
+  Passwords are stored as hashed values using a strong hashing algorithm (e.g., bcrypt) to prevent unauthorized access.
